@@ -1,3 +1,4 @@
+- [(20条消息) 一款实用的 GitHub Actions 小工具：Gitee Pages Actions_傲雪滨锋-CSDN博客](https://blog.csdn.net/ylb0109/article/details/106346061) github仓库同步到gitee并自动构建为gitee pages #gitee
 - [osmoscraft](https://github.com/osmoscraft) 一个帮助我们发现、吸收、组织、链接、生成和分享知识的开源工具 #奥斯莫
 - [（转载）Obsidian 开发相关（简单引导） - 开发讨论 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/148) #obsidian开发
 - [osmosfeed/README_zh.md at master · osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed/blob/master/README_zh.md) #osmos
