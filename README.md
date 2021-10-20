@@ -1,3 +1,4 @@
+- [（转载）Obsidian 开发相关（简单引导） - 开发讨论 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/148) #obsidian开发
 - [osmosfeed/README_zh.md at master · osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed/blob/master/README_zh.md) #osmos
 
 # About
