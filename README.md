@@ -1,3 +1,4 @@
+- [osmosfeed/README_zh.md at master · osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed/blob/master/README_zh.md) #osmos
 
 # About
 
