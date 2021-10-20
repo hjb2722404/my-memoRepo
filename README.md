@@ -1,3 +1,4 @@
+- [osmoscraft](https://github.com/osmoscraft) 一个帮助我们发现、吸收、组织、链接、生成和分享知识的开源工具 #奥斯莫
 - [（转载）Obsidian 开发相关（简单引导） - 开发讨论 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/148) #obsidian开发
 - [osmosfeed/README_zh.md at master · osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed/blob/master/README_zh.md) #osmos
 
