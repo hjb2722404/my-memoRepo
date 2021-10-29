@@ -1,3 +1,4 @@
+- [git-flight-rules/README_zh-CN.md at master · k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md) Git飞行规则，介绍了git出现各种问题的解决方法
 - [各种转 RSS 服务](https://rss.lilydjwg.me/) #rss
 - [WCAG - Contrast Checker](https://contrastchecker.com/) 前景色背景色效果预览测试
 - [GoogleChromeLabs/jsvu: JavaScript (engine) Version Updater](https://github.com/GoogleChromeLabs/jsvu) js不同引擎调用，用来测试js代码在不同引擎下的性能
