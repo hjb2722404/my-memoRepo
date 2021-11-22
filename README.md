@@ -1,3 +1,4 @@
+- [lorempixel - placeholder images for every case](http://lorempixel.com/) 随机图片API #api
 - [必应随机图片API](https://bing.ioliu.cn/v1/rand) 必应随机图片API #api
 - [给微信公众号生成RSS - wechat-feeds](https://wechat.privacyhide.com/) #rss
 - [[分享]使用Calibre recipe爬取离线博客，制作精美Kindle电子书-资源下载-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-269615.htm) 本地网页生成kindlw电子书 #kindle
