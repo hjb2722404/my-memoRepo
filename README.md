@@ -1,3 +1,4 @@
+- [必应随机图片API](https://bing.ioliu.cn/v1/rand) 必应随机图片API #api
 - [给微信公众号生成RSS - wechat-feeds](https://wechat.privacyhide.com/) #rss
 - [[分享]使用Calibre recipe爬取离线博客，制作精美Kindle电子书-资源下载-看雪论坛-安全社区|安全招聘|bbs.pediy.com](https://bbs.pediy.com/thread-269615.htm) 本地网页生成kindlw电子书 #kindle
 - [(42条消息) MySQL 索引概览_wallace_www的博客-CSDN博客](https://blog.csdn.net/wallace_www/article/details/117264149) mysql索引简介 #mysql
