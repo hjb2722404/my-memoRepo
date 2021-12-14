@@ -1,3 +1,4 @@
+- [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/) 制备氯化钠晶体教程 #趣味
 - [随机图片接口收集](https://ednovas.xyz/2021/01/22/randomapi/) 随机图片API接口收集 #api
 - [lorempixel - placeholder images for every case](http://lorempixel.com/) 随机图片API #api
 - [必应随机图片API](https://bing.ioliu.cn/v1/rand) 必应随机图片API #api
