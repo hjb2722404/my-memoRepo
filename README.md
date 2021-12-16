@@ -1,3 +1,4 @@
+- [The Rise Of The State Machines — Smashing Magazine](https://www.smashingmagazine.com/2018/01/rise-state-machines/) 前端状态机的简单原理 #架构
 - [行业标准信息服务平台](http://hbba.sacinfo.org.cn/)
 - [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/) 制备氯化钠晶体教程 #趣味
 - [随机图片接口收集](https://ednovas.xyz/2021/01/22/randomapi/) 随机图片API接口收集 #api
