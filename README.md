@@ -1,3 +1,4 @@
+- [futurecoder: Learn to code from scratch](https://futurecoder.io/) python在线交互式学习 #python
 - [The Rise Of The State Machines — Smashing Magazine](https://www.smashingmagazine.com/2018/01/rise-state-machines/) 前端状态机的简单原理 #架构
 - [行业标准信息服务平台](http://hbba.sacinfo.org.cn/)
 - [How to Grow Sodium Chloride Crystals at Home](https://crystalverse.com/sodium-chloride-crystals/) 制备氯化钠晶体教程 #趣味
