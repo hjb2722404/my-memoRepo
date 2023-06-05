@@ -1,3 +1,4 @@
+- [What is Git HEAD? | The Concept of HEAD in Git - Explained](https://initialcommit.com/blog/what-is-git-head)
 - [WHO每周新冠报告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) #data
 - [Scratch - 飞行游戏](https://scratch.mit.edu/projects/411101291) 少儿可视化编程在线体验 #学些
 - [futurecoder: Learn to code from scratch](https://futurecoder.io/) python在线交互式学习 #python
